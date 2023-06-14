@@ -1,5 +1,6 @@
-# miniature-guide
-Public Speaking Tips and Resources
+![](https://github.com/vaishnavitv/miniature-guide/blob/main/Glassophobia.jpg)
+
+# :loudspeaker: Public Speaking Tips and Resources
 
 
 I am clumsy and always have Murphy's law kicking in for me. I experience glossophobia and stage fright often. I am sharing a few tips which may or may not have happened to me, in no particular order to help you become a better speaker.
